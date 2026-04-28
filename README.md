@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Anil-Kumar-Akula/Anil-Kumar-Akula/blob/main/Anil_Banner1.png" alt="GitHub Banner" width="800"/>
+</div>
+
 
 # 👋 Hi, I'm Anil Kumar Akula
 
