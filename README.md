@@ -84,6 +84,6 @@ I'm a passionate **DevOps** with over **1.5 years of experience** in building sc
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anil-Kumar-Akula/Anil-Kumar-Akula/output/github-contribution-grid-snake.svg" />
-</p>
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
