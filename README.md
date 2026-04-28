@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I'm Anil Kumar Akula<br>Software Engineer – DevOps @ Sensorise Smart Solutions<br><br>🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Jenkins
+# 👋 Hi, I'm Anil Kumar Akula
+
+### Software Engineer  – DevOps @ Sensorise Smart Solutions 
+🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Jenkins
 
 
 ## 🌐 Socials:
