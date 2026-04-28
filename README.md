@@ -58,7 +58,6 @@ I'm a passionate **DevOps** with over **1.5 years of experience** in building sc
 
 ---
 
----
 
 ## ⚙️ Skills Showcase
 
