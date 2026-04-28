@@ -28,10 +28,10 @@ I'm a passionate **DevOps** with over **1.5 years of experience** in building sc
 <div align="center">
 
 ### ☁️ AWS Certified DevOps Engineer – Professional
-<img src="https://github.com/Anil-Kumar-Akula/Anil-Kumar-Akula/blob/main/AWS_DEVOPS.webp" width="200"/>
+<img src="https://github.com/Anil-Kumar-Akula/Anil-Kumar-Akula/blob/main/AWS_DEVOPS.webp" width="100"/>
 
 ### ☁️ AWS Certified Developer – Associate
-<img src="https://github.com/Anil-Kumar-Akula/Anil-Kumar-Akula/blob/main/AWS_DEV.png" width="200"/>
+<img src="https://github.com/Anil-Kumar-Akula/Anil-Kumar-Akula/blob/main/AWS_DEV.png" width="110"/>
 
 </div>
 
