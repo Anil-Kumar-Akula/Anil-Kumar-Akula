@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 👋 Hi, I'm Anil Kumar Akula
 
 ### Software Engineer  – DevOps @ Sensorise Smart Solutions 
