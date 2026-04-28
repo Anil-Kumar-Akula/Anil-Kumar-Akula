@@ -35,9 +35,9 @@ I'm a passionate **DevOps** with over **1.5 years of experience** in building sc
 ### 💼 Career Snapshot
 
 - 🏢 **Sensorise Smart Solutions** – * Associate Software Engineer  – DevOps*  
-  Managing GAIA-based infrastructure with Kubernetes and Jules. Driving CI/CD and observability strategy across critical internal platforms.
-  cloud automation projects using Terraform, Docker, and CI/CD tools (Jenkins) on AWS, resulting in a 40% deployment time reduction.
-  Designed secure cloud infrastructure using AWS. Built CI/CD pipelines, implemented IaC, and improved uptime and efficiency.
+   Experience in building, automating, and managing cloud infrastructure using Infrastructure as Code (Terraform). I have worked on provisioning and managing AWS services such as EC2, S3, EBS, ALB, Auto Scaling, IAM, VPC, CloudFront, Route 53, and AWS Secrets Manager.
+
+   I have strong experience in implementing CI/CD pipelines using Jenkins, with source code management using Git and GitHub. I have hands-on experience with Docker and Kubernetes for containerization and orchestration, including building Docker images and deploying applications to Kubernetes clusters.
 
 
 ---
