@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Anil Kumar Akula
 
-### Associate DevOps Engineer  – DevOps @ Sensorise Smart Solutions 
+### Associate DevOps Engineer  – Sensorise Smart Solutions 
 <b>  Aws DevOps | CI/CD | Kubernetes | Terraform | Jenkins | Docker | prometheus | Grafana | Ansible | shellscripting | Git | Github | Github Actions | Python </b>
 
 
