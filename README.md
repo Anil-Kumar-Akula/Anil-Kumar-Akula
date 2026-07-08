@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Anil Kumar Akula
 
-### Associate Software Engineer  – DevOps @ Sensorise Smart Solutions 
+### Associate DevOps Engineer  – DevOps @ Sensorise Smart Solutions 
 <b>  Aws DevOps | CI/CD | Kubernetes | Terraform | Jenkins | Docker | prometheus | Grafana | Ansible | shellscripting | Git | Github | Github Actions | Python </b>
 
 
@@ -15,7 +15,7 @@
 
 ---
 
-I'm a passionate **DevOps** with over **1.5 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability on AWS
+I'm a passionate **DevOps** with over **1.6 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability on AWS
 
 
 ---
@@ -52,7 +52,7 @@ I'm a passionate **DevOps** with over **1.5 years of experience** in building sc
 
 ### 💼 Career Snapshot
 
-- 🏢 **Sensorise Smart Solutions** – * Associate Software Engineer  – DevOps*  
+- 🏢 **Sensorise Smart Solutions** – * Associate DevOps Engineer  – DevOps*  
    Experience in building, automating, and managing cloud infrastructure using Infrastructure as Code (Terraform). I have worked on provisioning and managing AWS services such as EC2, S3, EBS, ALB, Auto Scaling, IAM, VPC, CloudFront, Route 53, and AWS Secrets Manager.
 
    I have strong experience in implementing CI/CD pipelines using Jenkins, with source code management using Git and GitHub. I have hands-on experience with Docker and Kubernetes for containerization and orchestration, including building Docker images and deploying applications to Kubernetes clusters.
