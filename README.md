@@ -15,7 +15,7 @@
 
 ---
 
-I'm a passionate **DevOps** with over **1.6 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability on AWS
+I'm a passionate **DevOps** with over **2 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability on AWS
 
 
 ---
